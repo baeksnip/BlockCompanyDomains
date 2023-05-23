@@ -1,4 +1,5 @@
 google.com
+gmail.com
 googleapis.com
 gstatic.com
 pki.goog

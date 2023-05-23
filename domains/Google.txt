@@ -1,5 +1,7 @@
 google.com
+googleusercontent.com
 gmail.com
+youtube.com
 googleapis.com
 gstatic.com
 pki.goog

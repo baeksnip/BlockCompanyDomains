@@ -3,5 +3,28 @@ samsung.com
 samsungcloud.com
 samsungapps.com
 
+-Microsoft:
+xboxlive.com
+windowsupdate.com
+xbox.com
+bing.com
+microsoft.com
+msftncsi.com
+windows.com
+live.com
+msn.com
+skype.com
+passport.com
+msftconnecttest.com
+office.com
+office365.com
+windowssearch.com
+microsoft.net
+msedge.net
+azureedge.net
+msauth.net
+dc-msedge.net
+a-msedge.net
+
 -Herbert Packard (HP):
 hp.com

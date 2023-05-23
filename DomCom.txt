@@ -14,7 +14,7 @@ samsung.com
 samsungcloud.com
 samsungapps.com
 
--LG:
+-Lucky-Goldstar (LG):
 lgtvcommon.com
 lgappstv.com
 lgtvsdp.com

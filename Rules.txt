@@ -1,0 +1,8 @@
+
+
+
+PiHole:
+(^|\.)DOMAIN\.EXT$
+
+Example:
+(^|\.)microsoft\.com$

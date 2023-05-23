@@ -1,2 +1,3 @@
 mozilla.com
+mozilla.net
 mozilla.org

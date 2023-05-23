@@ -1,2 +1,4 @@
 apple.com
 apple-dns.net
+.apple
+aaplimg.com

@@ -1,7 +1,4 @@
-
-
-
-PiHole:
+PiHole rules:
 (^|\.)DOMAIN\.EXT$
 (^|\.)EXT$
 

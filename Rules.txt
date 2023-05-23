@@ -3,6 +3,8 @@
 
 PiHole:
 (^|\.)DOMAIN\.EXT$
+(^|\.)EXT$
 
 Example:
 (^|\.)microsoft\.com$
+(^|\.)ru$

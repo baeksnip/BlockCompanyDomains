@@ -1,3 +1,7 @@
+Recomended Extension Domains to block:
+
+
+
 -Samsung:
 samsung.com
 samsungcloud.com

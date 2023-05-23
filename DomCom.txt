@@ -14,6 +14,18 @@ samsung.com
 samsungcloud.com
 samsungapps.com
 
+-LG:
+lgtvcommon.com
+lgappstv.com
+lgtvsdp.com
+lge.com
+
+-Netflix:
+netflix.com
+nflximg.com
+nflxext.com
+nflxso.com
+
 -Microsoft:
 xboxlive.com
 windowsupdate.com

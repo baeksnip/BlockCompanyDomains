@@ -1,2 +1,14 @@
 linkedin
 hp
+
+
+-Servios nube
+akamaiedge.net
+cloudfront.net
+mypurecloud.com
+onetrust.com
+thawte.com
+pki.goog
+
+-maliciosos
+api2.branch.io

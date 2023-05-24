@@ -8,3 +8,10 @@
 .foo
 .nexus
 .ly
+.cf
+.ml
+.ga
+.work
+.gq
+.fit
+.tk

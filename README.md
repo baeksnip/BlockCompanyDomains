@@ -14,7 +14,7 @@ And to control the connections of the mobile terminals, I always use them connec
 
 Router <-> Firewall <-> [Local Network(PiHole+VPN)]
 
-# Hosts file rules:
+# Example rules for hosts:
 -Modify with administration privileges the system hosts file located at:
 
 Linux: /etc/hosts
@@ -32,7 +32,7 @@ Mac: /private/etc/hosts
 127.0.0.1 fbcdn.net
 
 
-# PiHole rules example:
+# Example rules for PiHole:
 ![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/images/01_create_group.jpg)
 ![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/images/02_group.jpg)
 ![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/images/03_rules.jpg)

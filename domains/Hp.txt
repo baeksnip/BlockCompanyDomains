@@ -1,3 +1,4 @@
 hp.com
+hpdaas.com
 hpsmart.com
 hpconnected.com

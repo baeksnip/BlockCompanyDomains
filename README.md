@@ -16,13 +16,19 @@ Router <-> Firewall <-> [Local Network(PiHole+VPN)]
 
 # Hosts file rules:
 Modify with administration privileges the system hosts file located at:
+
 Linux: /etc/hosts
+
 Windows: \Windows\System32\drivers\etc\hosts
+
 Mac: /private/etc/hosts
 
 With the following content to block access, for example, to Facebook:
+
 127.0.0.1 facebook.com
+
 127.0.0.1 fb.com
+
 127.0.0.1 fbcdn.net
 
 

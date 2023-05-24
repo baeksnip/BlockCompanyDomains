@@ -12,6 +12,8 @@ https://www.youtube.com/shorts/wiDZuIql-mM
 
 And to control the connections of the mobile terminals, I always use them connected through VPN to the network in which I have the PiHole, so that all the traffic is filtered.
 
+Router <-> Firewall <-> Local Network(VPN)
+
 # PiHole rules example:
 ![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/01_create_group.jpg)
 ![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/02_group.jpg)

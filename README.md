@@ -6,7 +6,9 @@ The objective of this repository is to provide the list of domains associated wi
 
 With this information, rules can be defined in a firewall, pihole, hosts file or any other tool that allows or block access from devices.
 
-For a complete solution applied to all types of devices, I particularly apply a solution based on the implementation of rules to block access to DNS by other devices that are not PiHole itself.
+For a complete solution applied to all types of devices, I particularly apply a solution based on the implementation of rules in a physical firewall to block DNS access by other devices that are not PiHole itself, since many of these their own name resolvers do not allow configuration bypass.
+
+https://www.youtube.com/shorts/wiDZuIql-mM
 
 And to control the connections of the mobile terminals, I always use them connected through VPN to the network in which I have the PiHole, so that all the traffic is filtered.
 

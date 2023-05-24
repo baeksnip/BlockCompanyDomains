@@ -1,0 +1,6 @@
+hp.com
+hpdaas.com
+hpsmart.com
+hpconnected.com
+hpconnected.com.cdn.cloudflare.net
+hpsmart.com.cdn.cloudflare.net

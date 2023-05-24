@@ -15,6 +15,6 @@ And to control the connections of the mobile terminals, I always use them connec
 Router <-> Firewall <-> [Local Network(PiHole+VPN)]
 
 # PiHole rules example:
-![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/01_create_group.jpg)
-![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/02_group.jpg)
-![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/03_rules.jpg)
+![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/images/01_create_group.jpg)
+![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/images/02_group.jpg)
+![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/images/03_rules.jpg)

@@ -9,8 +9,6 @@ With this information, rules can be defined in a firewall, pihole, hosts file or
 
 ![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/01_create_group.jpg)
 
+![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/02_regex.jpg)
 
-
-![RegEx]([http://url/to/img.png](https://github.com/baeksnip/DomainsCompanys/blob/main/02_regex.jpg))
-
-![Rules]([http://url/to/img.png](https://github.com/baeksnip/DomainsCompanys/blob/main/03_rules.jpg))
+![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/03_rules.jpg)

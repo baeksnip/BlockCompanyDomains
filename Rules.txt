@@ -1,7 +1,0 @@
-PiHole rules:
-(^|\.)DOMAIN\.EXT$
-(^|\.)EXT$
-
-Example:
-(^|\.)microsoft\.com$
-(^|\.)ru$

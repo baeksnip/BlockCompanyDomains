@@ -1,4 +1,3 @@
-Recomended Extension Domains to block:
 .ru
 .zip
 .dad

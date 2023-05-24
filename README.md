@@ -8,7 +8,16 @@ With this information, rules can be defined in a firewall, pihole, hosts file or
 
 For a complete solution applied to all types of devices, I particularly apply a solution based on the implementation of rules in a physical firewall between the router that provides internet access and the local network to block DNS access by other devices that are not PiHole itself, since many of these their own name resolvers do not allow configuration bypass. An example can be seen in the following video:
 
-[![](https://markdown-videos.deta/youtube/wiDZuIql-mM)](https://youtu.be/wiDZuIql-mM)
+<center>
+ <iframe width="560" 
+         height="315" 
+         src="https://www.youtube.com/shorts/wiDZuIql-mM" 
+         title="YouTube video player" 
+         frameborder="0" 
+         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+         allowfullscreen>
+ </iframe>
+</center>
 
 And to control the connections of the mobile terminals, I always use them connected through VPN to the network in which I have the PiHole, so that all the traffic is filtered.
 

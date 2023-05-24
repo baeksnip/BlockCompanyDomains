@@ -6,7 +6,7 @@ The objective of this repository is to provide the list of domains associated wi
 
 With this information, rules can be defined in a firewall, pihole, hosts file or any other tool that allows or block access from devices.
 
-For a complete solution applied to all types of devices, I particularly apply a solution based on the implementation of rules in a physical firewall to block DNS access by other devices that are not PiHole itself, since many of these their own name resolvers do not allow configuration bypass. An example can be seen in the following video:
+For a complete solution applied to all types of devices, I particularly apply a solution based on the implementation of rules in a physical firewall between the router that provides internet access and the local network to block DNS access by other devices that are not PiHole itself, since many of these their own name resolvers do not allow configuration bypass. An example can be seen in the following video:
 
 https://www.youtube.com/shorts/wiDZuIql-mM
 

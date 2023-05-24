@@ -25,6 +25,7 @@ With the following content to block access, for example, to Facebook:
 127.0.0.1 fb.com
 127.0.0.1 fbcdn.net
 
+
 # PiHole rules example:
 ![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/images/01_create_group.jpg)
 ![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/images/02_group.jpg)

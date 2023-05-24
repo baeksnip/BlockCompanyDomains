@@ -1,0 +1,11 @@
+Recomended Extension Domains to block:
+.ru
+.zip
+.dad
+.phd
+.prof
+.esq
+.mov
+.foo
+.nexus
+.ly

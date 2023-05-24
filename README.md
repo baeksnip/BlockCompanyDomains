@@ -1,4 +1,4 @@
-(The "domains list" is incomplete, collaborations are accepted)
+(The "domains list" are incomplete, collaborations are accepted)
 
 #  DomainsCompanys
 

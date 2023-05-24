@@ -1,5 +1,0 @@
-apple.com
-icloud.com
-apple-dns.net
-.apple
-aaplimg.com

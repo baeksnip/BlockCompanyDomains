@@ -31,7 +31,10 @@ With the following content to block access, for example, for block Facebook:
 127.0.0.1 fbcdn.net
 ```
 
-# Example rules for PiHole:
+# Example rules for PiHole domains:
 ![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/images/01_create_group.jpg)
 ![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/images/02_group.jpg)
 ![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/images/03_rules.jpg)
+
+# Example rules for PiHole extension domains (all russian domain names):
+![plot](https://github.com/baeksnip/DomainsCompanys/blob/main/images/04_ru.jpg)

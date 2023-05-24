@@ -15,13 +15,11 @@ And to control the connections of the mobile terminals, I always use them connec
 Router <-> Firewall <-> [Local Network(PiHole+VPN)]
 
 # Example rules for hosts:
--Modify with administration privileges the system hosts file located at:
 
-Linux: /etc/hosts
-
-Windows: \Windows\System32\drivers\etc\hosts
-
-Mac: /private/etc/hosts
+** ** Modify with administration privileges the system hosts file located at:
+** ** Linux: /etc/hosts
+** ** Windows: \Windows\System32\drivers\etc\hosts
+** ** Mac: /private/etc/hosts
 
 -With the following content to block access, for example, to Facebook:
 

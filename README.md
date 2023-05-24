@@ -1,3 +1,5 @@
+(The "domains list" is incomplete, collaborations are accepted)
+
 #  DomainsCompanys
 
 List of domains related to technology companies for filtering

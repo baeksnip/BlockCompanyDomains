@@ -17,7 +17,9 @@ Router <-> Firewall <-> [Local Network(PiHole+VPN)]
 # Hosts file rules:
 Modify with administration privileges the system hosts file located at:
 Linux: /etc/hosts
+
 Windows: \Windows\System32\drivers\etc\hosts
+
 Mac: /private/etc/hosts
 
 # PiHole rules example:

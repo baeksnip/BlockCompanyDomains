@@ -1,6 +1,8 @@
 # Methodology to find out the domains of a device
 -Off and on
+
 -Utilization
+
 -Execution of main functions
 
 # Methodology to find out the domains of a service

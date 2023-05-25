@@ -12,10 +12,4 @@ skype.com
 passport.com
 msftconnecttest.com
 windowssearch.com
-msedge.net
-azureedge.net
 msauth.net
-dc-msedge.net
-a-msedge.net
-office.com
-office365.com

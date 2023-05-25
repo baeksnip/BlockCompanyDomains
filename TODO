@@ -6,4 +6,4 @@
 # Methodology to find out the domains of a service
 -Use
 
-# Prevent the use of other dns resolvers that a device uses in its own way outside of being able to configure it.
+# Prevent the use of other dns resolvers blocked on the device that cannot be changed in the settings.

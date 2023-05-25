@@ -1,0 +1,4 @@
+msedge.net
+azureedge.net	
+dc-msedge.net
+a-msedge.net

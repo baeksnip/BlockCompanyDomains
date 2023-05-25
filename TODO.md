@@ -1,7 +1,7 @@
 # Methodology to find out the domains of a device
 -Off and on
 
--Utilization
+-Use
 
 -Execution of main functions
 

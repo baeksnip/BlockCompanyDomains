@@ -1,2 +1,4 @@
 instagram.com
 cdninstagram.com
+facebook.net
+fbcdn.net

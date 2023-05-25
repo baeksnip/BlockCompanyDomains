@@ -4,3 +4,5 @@ ibytedtos.com
 ttwstatic.com
 starling-oversea.byteoversea.com
 bytedance.map.fastly.net
+tiktokcdn-us.com
+lf16-tiktok-common.ibytedtos.com

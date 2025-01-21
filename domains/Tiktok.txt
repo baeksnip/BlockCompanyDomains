@@ -1,5 +1,7 @@
-tiktokcdn.com
 tiktok.com
+tiktokv.eu
+tiktokw.eu
+tiktokcdn.com
 tiktokv.com
 tiktokcdn-eu.com
 tiktokrow-cdn.com
@@ -9,4 +11,3 @@ ibytedtos.com
 ttwstatic.com
 byteoversea.com
 tiktokcdn-us.com
-ibytedtos.com

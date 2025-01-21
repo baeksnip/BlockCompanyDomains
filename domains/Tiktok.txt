@@ -1,8 +1,12 @@
-tiktok.com
 tiktokcdn.com
+tiktok.com
+tiktokv.com
+tiktokcdn-eu.com
+tiktokrow-cdn.com
+ttlivecdn.com
+ibyteimg.com
 ibytedtos.com
 ttwstatic.com
-starling-oversea.byteoversea.com
-bytedance.map.fastly.net
+byteoversea.com
 tiktokcdn-us.com
-lf16-tiktok-common.ibytedtos.com
+ibytedtos.com
